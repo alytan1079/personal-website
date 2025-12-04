@@ -2,44 +2,23 @@
   {
     "objectID": "project.html",
     "href": "project.html",
-    "title": "personal-website",
+    "title": "Aly Tan",
     "section": "",
     "text": "Here is my project 1"
-  },
-  {
-    "objectID": "project.html#new-heading-2",
-    "href": "project.html#new-heading-2",
-    "title": "Project",
-    "section": "New Heading 2",
-    "text": "New Heading 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Finley Malloc",
-    "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\nDOWNLOAD CV"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Finley Malloc",
-    "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Finley Malloc",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   },
   {
     "objectID": "project.html#project-1",
     "href": "project.html#project-1",
-    "title": "personal-website",
+    "title": "Aly Tan",
     "section": "",
     "text": "Here is my project 1"
+  },
+  {
+    "objectID": "project.html#project-2",
+    "href": "project.html#project-2",
+    "title": "Aly Tan",
+    "section": "Project 2",
+    "text": "Project 2\nHere is my project 2"
   },
   {
     "objectID": "projects/01-project.html",
@@ -49,17 +28,31 @@
     "text": "Some complicated statistics project\n\nrunif(10)\n\n [1] 0.00990921 0.42331743 0.22362606 0.31323180 0.37554152 0.83825373\n [7] 0.97691028 0.27675533 0.44361223 0.26656209"
   },
   {
-    "objectID": "project.html#project-2",
-    "href": "project.html#project-2",
-    "title": "personal-website",
-    "section": "Project 2",
-    "text": "Project 2\nHere is my project 2"
-  },
-  {
     "objectID": "projects/02-project.html",
     "href": "projects/02-project.html",
     "title": "Project 2",
     "section": "",
-    "text": "This is project 2\n\nrnorm(10)\n\n [1]  0.83343844 -0.48689957 -0.75651872 -0.05320206  1.65026107  0.13535492\n [7]  1.04981661 -0.61532235 -0.42859984 -1.13309183"
+    "text": "This is project 2\n\nrnorm(10)\n\n [1] -0.3667438 -0.5120003 -0.6924999 -0.2077184 -0.4833008  0.3530186\n [7] -0.8382117 -0.8819329  0.6198060 -0.4666135"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aly Tan",
+    "section": "",
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Aly Tan",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Aly Tan",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   }
 ]

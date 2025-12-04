@@ -1,5 +1,5 @@
 ---
-title: "Finley Malloc"
+title: "Aly Tan"
 about:
   template: jolla
   image: profile_pic.png
@@ -8,14 +8,15 @@ about:
       text: Github
       href: https://github.com/alytan1079
     - text: Email
-      href: "alytan1079@gmail.com"
-    - text: cv
-      href: "cv.pdf"
+      href: "mailto:alytan1079@gmail.com"
+    - text: CV
+      url: cv.pdf
+toc: false
 ---
+
 
 Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
 
-DOWNLOAD [CV](/cv.pdf)
 
 ## Education
 
