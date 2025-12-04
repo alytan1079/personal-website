@@ -1,0 +1,15 @@
+{
+  "hash": "4b6057aa9b8b961d7c684fcca131cbc5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Project 2\nformat: html\n---\n\n\n\nThis is project 2\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrnorm(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1]  0.83343844 -0.48689957 -0.75651872 -0.05320206  1.65026107  0.13535492\n [7]  1.04981661 -0.61532235 -0.42859984 -1.13309183\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

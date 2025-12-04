@@ -1,0 +1,11 @@
+---
+title: Project 2
+format: html
+---
+
+This is project 2
+
+```{r}
+rnorm(10)
+```
+

@@ -7,8 +7,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: Inform
+      - href: project.qmd
+        text: Project
+        
+  page-footer: 
+    right: "&copy; 2025, Aly Tan"
         
 format:
   html:
@@ -17,6 +20,13 @@ format:
       - brand
     css: styles.css
     toc: true
+    published-title: "last updated"
+    reference-location: document
+    code-fold: false
+    code-summary: ""
+    fontsize: 1.3em
 
 
 
+execute: 
+  freeze: auto

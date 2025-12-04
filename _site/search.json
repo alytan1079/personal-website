@@ -1,16 +1,65 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "personal-website",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Here is my project 1"
+  },
+  {
+    "objectID": "project.html#new-heading-2",
+    "href": "project.html#new-heading-2",
+    "title": "Project",
+    "section": "New Heading 2",
+    "text": "New Heading 2"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "Finley Malloc",
+    "section": "",
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\nDOWNLOAD CV"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Finley Malloc",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Finley Malloc",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "project.html#project-1",
+    "href": "project.html#project-1",
     "title": "personal-website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.83686688 0.50836111 0.76968838 0.79776613 0.80607492 0.51768327\n [7] 0.05511272 0.40425312 0.80986599 0.39846065"
+    "text": "Here is my project 1"
+  },
+  {
+    "objectID": "projects/01-project.html",
+    "href": "projects/01-project.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "Some complicated statistics project\n\nrunif(10)\n\n [1] 0.00990921 0.42331743 0.22362606 0.31323180 0.37554152 0.83825373\n [7] 0.97691028 0.27675533 0.44361223 0.26656209"
+  },
+  {
+    "objectID": "project.html#project-2",
+    "href": "project.html#project-2",
+    "title": "personal-website",
+    "section": "Project 2",
+    "text": "Project 2\nHere is my project 2"
+  },
+  {
+    "objectID": "projects/02-project.html",
+    "href": "projects/02-project.html",
+    "title": "Project 2",
+    "section": "",
+    "text": "This is project 2\n\nrnorm(10)\n\n [1]  0.83343844 -0.48689957 -0.75651872 -0.05320206  1.65026107  0.13535492\n [7]  1.04981661 -0.61532235 -0.42859984 -1.13309183"
   }
 ]
