@@ -11,6 +11,8 @@ website:
         text: Home
       - href: teaching.qmd
         text: Teaching
+      - href: courses.qmd
+        text: Courses
         
   page-footer: 
     right: "&copy; 2025, Aly Tan"

@@ -1,0 +1,30 @@
+---
+title: Coursework
+format: html
+---
+
+### Math Coursework
+
+- Single Variable Calculus I (MATH 5A)
+- Single Variable Calculus II (MATH 5B)
+- Multivariable Calculus (MATH 5C)
+- Linear Algebra and Applications (MATH 010)
+- Differential Equations (MATH 055)
+- Key Issues in K–12 Math Instruction (MATH 73XP)
+- Math Pedagogy – Teaching Elementary Math (MATH 74XP)
+
+
+### Statistics Coursework
+
+- Introduction to Probability and Statistics (STATS 100A)
+- Introduction to Mathematical Statistics (STATS 100B)
+- Linear Models (STATS 100C)
+- Programming with R (STATS 20)
+- Intro to Data Analysis and Regression (STATS 101A)
+- Design and Analysis of Experiments (STATS 101B)
+- Regression and Data Mining (STATS 101C) in progress
+- Intro to Computational Statistics with R (STATS 102A)
+- Monte Carlo Methods (STATS 102C)
+- Statistical Consulting (STATS 140XP / STATS 141XP)
+- Statistical Models in Finance (STATS C183)
+
