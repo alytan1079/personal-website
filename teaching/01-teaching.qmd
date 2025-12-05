@@ -1,0 +1,16 @@
+---
+title: Teaching Experience 1
+subtitle: UCLA - Teaching Assistant
+image: image/ucla_logo.png
+format: html
+---
+
+**Cal Teach — Math Teaching Assistant, Los Angeles, CA**
+*Dec. 2024 – Jun. 2025*
+[Program Website](https://communitypartnerships.ucla.edu/program/california-teach/)
+
+* Supported instruction in high school Statistics and Calculus classrooms by assisting with lesson delivery and offering individualized student support
+* Guided students through challenging mathematical concepts using one-on-one tutoring and small-group learning sessions
+* Created and graded practice assignments aligned with Common Core standards to strengthen understanding and improve test readiness
+* Worked with mentor teachers to review student performance data and adjust lesson plans and teaching strategies accordingly
+

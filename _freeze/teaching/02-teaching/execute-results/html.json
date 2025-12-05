@@ -1,0 +1,15 @@
+{
+  "hash": "242ab32c67a2e99d142b1054376aedde",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Teaching Experience 2\nformat: html\n---\n\n\n\nThis is Teaching Experience 2\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrnorm(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] -1.29759169  0.06288419 -0.21066532  1.45234067 -1.51069051  0.88565109\n [7] -0.19380562 -0.37458855 -0.18922719  0.15028571\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

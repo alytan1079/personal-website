@@ -1,58 +1,44 @@
 [
   {
-    "objectID": "project.html",
-    "href": "project.html",
+    "objectID": "teaching/02-teaching.html",
+    "href": "teaching/02-teaching.html",
+    "title": "Teaching Experience 2",
+    "section": "",
+    "text": "StepUpTutoring — Tutor, Virtual\n[Jan. 2025 – Oct. 2025]\nProgram Website\n\nDelivered one-on-one virtual tutoring in English Language Arts and Math to elementary students, meeting twice weekly through an online learning platform\nCreated individualized lesson plans and practice materials tailored to each student’s academic level and learning needs\nIncreased student engagement using interactive tools, real-time feedback, and consistent positive reinforcement\nCommunicated effectively with non-English-speaking parents by using translated messages and audio tools to ensure shared understanding of goals and progress\nSupported families facing technology challenges by securing free laptop loans and troubleshooting connectivity issues to maintain steady participation\nModified instruction using multiple teaching modalities—including numerical examples, real-world applications, and visual aids—to support diverse learning styles and enhance comprehension"
+  },
+  {
+    "objectID": "teaching/01-teaching.html",
+    "href": "teaching/01-teaching.html",
+    "title": "Teaching Experience 1",
+    "section": "",
+    "text": "Cal Teach — Math Teaching Assistant, Los Angeles, CA Dec. 2024 – Jun. 2025 Program Website\n\nSupported instruction in high school Statistics and Calculus classrooms by assisting with lesson delivery and offering individualized student support\nGuided students through challenging mathematical concepts using one-on-one tutoring and small-group learning sessions\nCreated and graded practice assignments aligned with Common Core standards to strengthen understanding and improve test readiness\nWorked with mentor teachers to review student performance data and adjust lesson plans and teaching strategies accordingly"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
     "title": "Aly Tan",
     "section": "",
-    "text": "Here is my project 1"
-  },
-  {
-    "objectID": "project.html#project-1",
-    "href": "project.html#project-1",
-    "title": "Aly Tan",
-    "section": "",
-    "text": "Here is my project 1"
-  },
-  {
-    "objectID": "project.html#project-2",
-    "href": "project.html#project-2",
-    "title": "Aly Tan",
-    "section": "Project 2",
-    "text": "Project 2\nHere is my project 2"
-  },
-  {
-    "objectID": "projects/01-project.html",
-    "href": "projects/01-project.html",
-    "title": "Project 1",
-    "section": "",
-    "text": "Some complicated statistics project\n\nrunif(10)\n\n [1] 0.00990921 0.42331743 0.22362606 0.31323180 0.37554152 0.83825373\n [7] 0.97691028 0.27675533 0.44361223 0.26656209"
-  },
-  {
-    "objectID": "projects/02-project.html",
-    "href": "projects/02-project.html",
-    "title": "Project 2",
-    "section": "",
-    "text": "This is project 2\n\nrnorm(10)\n\n [1] -0.3667438 -0.5120003 -0.6924999 -0.2077184 -0.4833008  0.3530186\n [7] -0.8382117 -0.8819329  0.6198060 -0.4666135"
+    "text": "Here are my teaching experiences:\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTeaching Experience 1\n\n\nUCLA - Teaching Assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\nTeaching Experience 2\n\n\nOnline Tutoring\n\n\n\n\n\n\n\n\n\n\n\n\n\nTeaching Experience 3\n\n\nAfter-School Tutoring\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Aly Tan",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+    "text": "Hi! My name is Aly Tan. I’m a 4th-year undergraduate student at UCLA, majoring in Statistics and Data Science. My academic interests include statistical modeling, data visualization, and exploring how data influences decisions in everyday life. I’m also working toward becoming a math teacher, and I hope to use my background in data to help students understand mathematical ideas in a clear, engaging, and relevant way."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Aly Tan",
     "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+    "text": "Education\nUniversity of California, Los Angeles (UCLA) | Los Angeles, CA Bachelor of Science | Sept 2024 - June 2026"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Aly Tan",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+    "objectID": "teaching/03-teaching.html",
+    "href": "teaching/03-teaching.html",
+    "title": "Teaching Experience 3",
+    "section": "",
+    "text": "A Plus Education — Tutor, Los Angeles, CA Jan. 2020 – Feb. 2020\n\nSupported Chinese immigrant families in an after-school program by providing academic guidance and language assistance\nUsed bilingual communication to explain school expectations in Mandarin and discuss student progress with parents\nHelped families understand and navigate the U.S. school system, strengthening home–school connections\nBuilt an inclusive learning environment by ensuring multilingual parents felt informed and involved in their children’s education"
   }
 ]

@@ -1,0 +1,21 @@
+---
+toc: false
+listing:
+  - id: teaching-listing
+    contents: 
+      - "/teaching/*.qmd"
+    sort: false
+    sort-ui: false
+    filter-ui: true
+    type: grid
+    fields: 
+      - title
+      - image
+      - subtitle
+    categories: false
+---
+
+Here are my teaching experiences:
+
+:::teaching-listing
+:::

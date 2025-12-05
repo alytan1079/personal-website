@@ -1,14 +1,16 @@
 project:
   type: website
-
+  resources:
+    - cv.pdf
+    
 website:
   title: "Aly Tan"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: project.qmd
-        text: Project
+      - href: teaching.qmd
+        text: Teaching
         
   page-footer: 
     right: "&copy; 2025, Aly Tan"
