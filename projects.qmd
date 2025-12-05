@@ -1,0 +1,27 @@
+---
+format: html
+---
+
+### Projects
+
+**Predict Cancer Project** *(Oct. 2025 – Dec. 2025)*  
+**Tech Stack:** R, glm, randomForest, missForest, xgboost, logistic regression
+- Analyzed clinical and demographic variables to identify risk factors associated with cancer progression  
+- Developed predictive models to estimate patient survival outcomes and metastasis timelines  
+- Evaluated model accuracy using metrics such as RMSE, AUC, and cross-validation to ensure clinical reliability
+
+
+**RSNA Lumbar Spine Degenerative Classification** *(Pasadena, CA | Apr. 2024 – Jun. 2024)*  
+**Tech Stack:** Python, CNNs, TensorFlow/PyTorch, medical imaging, MRI preprocessing
+- Processed and analyzed lumbar spine MRI datasets for the RSNA 2024 challenge  
+- Implemented convolutional neural networks to classify degenerative spine conditions  
+- Visualized model predictions to support clinical interpretation and assist healthcare professionals
+
+**Inventory and Transaction Management System** *(Pasadena, CA | Mar. 2023 – May 2023)*  
+**Tech Stack:** C++, object-oriented programming, file I/O, data structures  
+- Developed an ordering and transaction management system with dynamic menu display and automated checkout  
+- Improved system efficiency by 15% through optimized data structures and transaction flow  
+- Performed financial analysis using income statements, balance sheets, and cash flow reports to evaluate company performance
+
+
+

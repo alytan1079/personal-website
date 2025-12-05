@@ -13,6 +13,8 @@ website:
         text: Teaching
       - href: courses.qmd
         text: Courses
+      - href: projects.qmd
+        text: Projects
         
   page-footer: 
     right: "&copy; 2025, Aly Tan"
@@ -20,15 +22,12 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
-    css: styles.css
+      light: [cosmo]
+      dark: [cosmo]
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
     toc: true
-    published-title: "last updated"
-    reference-location: document
-    code-fold: false
-    code-summary: ""
-    fontsize: 1.3em
 
 
 

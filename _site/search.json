@@ -14,11 +14,11 @@
     "text": "Cal Teach — Math Teaching Assistant, Los Angeles, CA Dec. 2024 – Jun. 2025 Program Website\n\nSupported instruction in high school Statistics and Calculus classrooms by assisting with lesson delivery and offering individualized student support\nGuided students through challenging mathematical concepts using one-on-one tutoring and small-group learning sessions\nCreated and graded practice assignments aligned with Common Core standards to strengthen understanding and improve test readiness\nWorked with mentor teachers to review student performance data and adjust lesson plans and teaching strategies accordingly"
   },
   {
-    "objectID": "courses.html",
-    "href": "courses.html",
-    "title": "Coursework",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Aly Tan",
     "section": "",
-    "text": "Math Coursework\n\nSingle Variable Calculus I (MATH 5A)\nSingle Variable Calculus II (MATH 5B)\nMultivariable Calculus (MATH 5C)\nLinear Algebra and Applications (MATH 010)\nDifferential Equations (MATH 055)\nKey Issues in K–12 Math Instruction (MATH 73XP)\nMath Pedagogy – Teaching Elementary Math (MATH 74XP)\n\n\n\nStatistics Coursework\n\nIntroduction to Probability and Statistics (STATS 100A)\nIntroduction to Mathematical Statistics (STATS 100B)\nLinear Models (STATS 100C)\nProgramming with R (STATS 20)\nIntro to Data Analysis and Regression (STATS 101A)\nDesign and Analysis of Experiments (STATS 101B)\nRegression and Data Mining (STATS 101C) in progress\nIntro to Computational Statistics with R (STATS 102A)\nMonte Carlo Methods (STATS 102C)\nStatistical Consulting (STATS 140XP / STATS 141XP)\nStatistical Models in Finance (STATS C183)"
+    "text": "Projects\nPredict Cancer Project (Oct. 2025 – Dec. 2025)\nTech Stack: R, glm, randomForest, missForest, xgboost, logistic regression - Analyzed clinical and demographic variables to identify risk factors associated with cancer progression\n- Developed predictive models to estimate patient survival outcomes and metastasis timelines\n- Evaluated model accuracy using metrics such as RMSE, AUC, and cross-validation to ensure clinical reliability\nRSNA Lumbar Spine Degenerative Classification (Pasadena, CA | Apr. 2024 – Jun. 2024)\nTech Stack: Python, CNNs, TensorFlow/PyTorch, medical imaging, MRI preprocessing - Processed and analyzed lumbar spine MRI datasets for the RSNA 2024 challenge\n- Implemented convolutional neural networks to classify degenerative spine conditions\n- Visualized model predictions to support clinical interpretation and assist healthcare professionals\nInventory and Transaction Management System (Pasadena, CA | Mar. 2023 – May 2023)\nTech Stack: C++, object-oriented programming, file I/O, data structures\n- Developed an ordering and transaction management system with dynamic menu display and automated checkout\n- Improved system efficiency by 15% through optimized data structures and transaction flow\n- Performed financial analysis using income statements, balance sheets, and cash flow reports to evaluate company performance"
   },
   {
     "objectID": "teaching.html",
@@ -26,6 +26,13 @@
     "title": "Aly Tan",
     "section": "",
     "text": "Here are my teaching experiences:\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTeaching Experience 1\n\n\nUCLA - Teaching Assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\nTeaching Experience 2\n\n\nOnline Tutoring\n\n\n\n\n\n\n\n\n\n\n\n\n\nTeaching Experience 3\n\n\nAfter-School Tutoring\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Coursework",
+    "section": "",
+    "text": "Math Coursework\n\nSingle Variable Calculus I (MATH 5A)\nSingle Variable Calculus II (MATH 5B)\nMultivariable Calculus (MATH 5C)\nLinear Algebra and Applications (MATH 010)\nDifferential Equations (MATH 055)\nKey Issues in K–12 Math Instruction (MATH 73XP)\nMath Pedagogy – Teaching Elementary Math (MATH 74XP)\n\n\n\nStatistics Coursework\n\nIntroduction to Probability and Statistics (STATS 100A)\nIntroduction to Mathematical Statistics (STATS 100B)\nLinear Models (STATS 100C)\nProgramming with R (STATS 20)\nIntro to Data Analysis and Regression (STATS 101A)\nDesign and Analysis of Experiments (STATS 101B)\nRegression and Data Mining (STATS 101C) in progress\nIntro to Computational Statistics with R (STATS 102A)\nMonte Carlo Methods (STATS 102C)\nStatistical Consulting (STATS 140XP / STATS 141XP)\nStatistical Models in Finance (STATS C183)"
   },
   {
     "objectID": "index.html",

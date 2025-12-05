@@ -2,7 +2,7 @@
 title: "Aly Tan"
 about:
   template: jolla
-  image: profile_pic.png
+  image: profile_picture.png
   links:
     - icon: github
       text: Github
